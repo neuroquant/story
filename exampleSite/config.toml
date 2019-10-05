@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.com/"
+baseurl = "https://neurostats.org/"
 title = "Hugo Story Theme"
 paginate = 5
 buildFuture = true
